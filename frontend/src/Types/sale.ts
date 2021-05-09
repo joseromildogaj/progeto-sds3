@@ -1,4 +1,4 @@
-import { Seller } from "./Seller"
+import { Seller } from "./saller"
 
 export type Sale = {
     id: number;
